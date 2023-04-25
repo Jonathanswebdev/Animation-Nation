@@ -1,0 +1,74 @@
+.whoa1:hover {
+    box-shadow: 50px 50px 50px 50px #f38601;
+    -webkit-transform: translateX(10px);
+    transform: scale(0.5) translate(-10%, -10%);
+  }
+
+  .whoa2:hover {
+    box-shadow:  40px 40px 40px 40px #17028c;
+    -webkit-transform: translateX(-8px);
+    transform: matrix(1, 2, 3, 4, 5, 6);
+  }
+  .whoa3:hover {
+    box-shadow:  30px 30px 30px 30px#6c5903;
+    -webkit-transform: translateX(-7px);
+    transform: translateX(-10px);
+  }
+  .whoa4:hover {
+    box-shadow: 20px 20px 20px 20px #016255;
+    -webkit-transform: translateX(-6px);
+    transform: matrix(1, 2, 3, 4, 5, 6);
+  }
+  .whoa5:hover {
+    box-shadow:  13px 13px 13px 13px #45020d;
+    -webkit-transform: translateX(-5px);
+    transform: skew(30deg, 20deg);
+  }
+
+  .container {
+    display: flex;
+    color: #d01030;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+  }
+
+  h1,h2,h3,h4,h5 {
+    display: flex;
+    color: rgb(166, 195, 160);
+    justify-content: center;
+    align-content: center;
+    margin-top: 40px;
+  }
+
+  
+  .btn1 {
+    opacity: 90%;
+    border: none;
+   
+
+  }
+
+  .btn2 {
+    opacity: 90%;
+    border: none;
+    background-color: white;
+  }
+
+  .btn3 {
+    opacity: 90%;
+    border: none;
+    background-color: white;
+  }
+
+  .btn4 {
+    opacity: 90%;
+    border: none;
+    background-color: white;
+  }
+
+  .btn5 {
+    opacity: 90%;
+    border: none;
+    background-color: white;
+  }

@@ -6528,6 +6528,15 @@ let cards = [
   },
 ];
 
+  {
+    artName: 'RadicalZero',
+    pageLink: './Art/Jonathanswebdev/index.html',
+    imageLink: './Art/Jonathanswebdev/radical.gif',
+    author: 'Jonathanswebdev',
+    githubLink: 'https://github.com/Jonathanswebdev/'
+  },
+];
+
 // +--------------------------------------------------------------------------------+
 // +                                                                                +
 // +                  YOU DO NOT NEED TO CHANGE ANYTHING BELOW THIS                 +
